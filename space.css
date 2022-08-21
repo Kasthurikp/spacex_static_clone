@@ -1,0 +1,275 @@
+@import url('https://fonts.googleapis.com/css2?family=Familjen+Grotesk:wght@400;600;700&display=swap');
+*{
+    padding: 0%;
+    margin:0%;
+    
+}
+body{
+    max-width: 100%;
+}
+.background{
+    width:100% ;
+    height: 100%;
+    position: absolute;
+}.header{
+width: 22%;
+    height:90px;
+    position: absolute;
+
+}.logo{ 
+    width: 15.2%;
+
+height:3.8%;
+position:fixed;
+margin-top:1.2%;
+margin-left: 1.9%;    
+}.k{
+    display: flex;
+    list-style: none;
+    color:white;
+}.items{
+    position: absolute;
+    height: 90px;
+    width: 80%;
+    margin-top:.5%;
+    margin-left: 20%;
+    font-family:'Familjen Grotesk', sans-serif;
+    font-size:83%;
+    font-weight:bold;
+    font-stretch:condensed;
+    
+
+    
+   
+}.k1{ 
+    margin-left: 24px;
+    margin-top: 3.4%;
+    
+} .side{
+    position: absolute;
+    height: 90px;
+    width: 100%;
+    margin-top:.5%;
+    margin-left:90.5% ;
+    font-family:'Familjen Grotesk', sans-serif;
+    font-size:83%;
+    font-weight: bold;
+    font-stretch: 100%;
+    font-style: normal;
+
+}.j{display: flex;
+    list-style: none;
+    color:white;
+    line-height: normal;
+
+}.side1
+{
+    margin-left: 0%;
+    margin-top: 2.9%;  
+}.menu{ 
+    position: absolute;
+    height: 90px;
+    width: 5%;
+    margin-top:.5%;
+    margin-left:95% ;
+
+
+}.menu1{
+    margin-left: 0%;
+    margin-top: 55%;
+    color: white;  
+}
+
+.page1{
+    list-style: none;
+    position: absolute;
+    margin-top: 27%;
+    margin-left: 3.8%;
+    height: 100%;
+    width: 96%;
+    font-style:normal;
+    
+
+    
+}.star{
+    margin-left:0% ;
+;
+
+}.s1{
+    color: white;
+    margin-left: 0%;
+    margin-top: 0;
+    font-family:'Familjen Grotesk', sans-serif;
+    font-size: larger;
+
+}
+.s2{
+    color:white;
+    margin-top: 1px;
+    font-size:30px ;
+    font-family: 'Familjen Grotesk', sans-serif;
+}.lk3{
+color: white;
+margin-top: 15px;
+margin-left: 50px;
+margin-bottom: 15px;
+margin-right: 50px;
+font-size: small;
+  }.bu{
+    background: none;
+    margin-top: 20px;
+    border-color:white ;
+    
+  }.page2{
+    position: absolute;
+    width:100%;
+margin-left:0%;
+margin: 0%;
+    margin-top: 23.26%;
+    margin-bottom: 30%;
+
+  }.kplo{
+    list-style: none;
+    position: absolute;
+    margin-top: 30%;
+    margin-left: 3.8%;
+    height: 100%;
+    width: 90%;
+    }
+    .keplo1{
+        margin-left:0% ;
+    
+    
+    }.kpl1{
+        color: white;
+        margin-left: 0%;
+        margin-top: 21%;
+        font-family:D-DIN-Medium, Arial, Verdana, sans-serif;
+        font-size:20px ;
+    
+    
+    }.kpl2{
+
+        color: white;
+        font-family: D-DIN-bold, Arial, Verdana, sans-serif;
+        font-size: 30px;
+        
+    }.lk3{
+        color: white;
+        margin-top: 15px;
+        margin-left: 50px;
+        margin-bottom: 15px;
+        margin-right: 50px;
+        font-size: small;
+          }.page3{
+            
+            position: absolute;
+            width:100%;
+        margin-left:0%;
+        margin: 0%;
+            margin-top: 46%;
+            margin-bottom: 30%;
+          }   
+          .d{
+            list-style: none;
+            position: absolute;
+            margin-top: 75%;
+            margin-left: 2.8%;
+            height: 100%;
+            width: 90%;
+            }
+            .k{
+                margin-left:0%
+            }.k21{
+                color: white;
+                font-family: D-DIN-bold, Arial, Verdana, sans-serif;
+                font-size: 30px;
+            }.kj{
+                background-color: brown;
+                background: none;
+                margin-top: 20px;
+                border-color:white ;
+                
+        
+            
+            }.kpm
+            {
+    
+                color: white;
+                margin-top: 15px;
+                margin-left: 20%;
+                margin-bottom: 15px;
+                margin-right: 50px;
+                font-size: small;
+            }.page4{
+            
+                position: absolute;
+                width:100%;
+            margin-left:0%;
+            margin: 0%;
+                margin-top: 69%;
+                margin-bottom: 30%;
+              }   .o{
+                list-style: none;
+                position: absolute;
+                margin-top: 91%;
+                margin-left: 2.8%;
+                height: 100%;
+                width: 90%;
+                }.spacex{
+                    background-color: black;
+                    position: fixed;
+                    position: absolute;
+                    height: 15%;
+                    width: 100%;
+                    margin-top: 2510px;
+                    margin-left: 0%;
+                    font-family:'Familjen Grotesk', sans-serif;
+                    font-size:69%;
+                    font-weight:bold;
+                    font-stretch:condensed;
+                }.mj{ 
+                    margin-right: 72%;
+                    
+                    display: flex;
+                    list-style: none;
+                    color:white;
+                }.mj1{
+            
+                    margin-left:77%;
+                    margin-top: 13%;
+                    
+                }
+                .ls1{
+                    display: flex;
+                    margin-left: 4%;
+                
+                    list-style: none;
+                     
+                }.lastone{
+                
+                    position: fixed;
+                    position: absolute;
+                    height: 15%;
+                    width: 80%;
+                    margin-top: 2510px;
+                    margin-left: 28%;
+                    font-family:'Familjen Grotesk', sans-serif;
+                    font-size:69%;
+                    font-weight:bold;
+                    font-stretch:condensed;
+                
+                }.ls2{
+
+                margin-left:3.8% ;
+                margin-top: 4.5%;
+                    
+
+                    color: white;
+
+
+                }
+
+                    
+                
+                
